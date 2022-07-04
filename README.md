@@ -12,7 +12,7 @@ Doge Dash is a Mario run-inspired game for lovers of video games. Gamers have th
 
 The functionality of our software:
 
-AutoJump - Auto Next Level - Unlimited life - Safe Mode.
+AutoJump - Auto Next Level - Unlimited life - Safe Mode
 
 DE \\
 
@@ -22,7 +22,7 @@ Doge Dash ist ein von Mario Run inspiriertes Spiel für Liebhaber von Videospiel
 
 Die Funktionalität unserer Software:
 
-AutoJump - Auto Next Level - Unbegrenztes Leben - Abgesicherter Modus.
+AutoJump - Auto Next Level - Unbegrenztes Leben - Abgesicherter Modus
 
 UA \\
 
@@ -32,4 +32,4 @@ Doge Dash — це гра, натхненна бігом Маріо, для лю
 
 Функціональність нашого програмного забезпечення:
 
-AutoJump - Auto Next Level - Unlimited life - Safe Mode.
+AutoJump - Auto Next Level - Unlimited life - Safe Mode
