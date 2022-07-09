@@ -4,7 +4,7 @@ Our software is absolutely safe
 
 For correct operation, it is recommended to disable your antivirus
 
-EN \\
+EN \
 
 Doge Dash Bot - v7.13.2
 
@@ -14,7 +14,7 @@ The functionality of our software:
 
 AutoJump - Auto Next Level - Unlimited life - Safe Mode
 
-DE \\
+DE \
 
 Doge Dash Bot – v7.13.2
 
@@ -24,7 +24,7 @@ Die Funktionalität unserer Software:
 
 AutoJump - Auto Next Level - Unbegrenztes Leben - Abgesicherter Modus
 
-UA \\
+UA \
 
 Бот Doge Dash - v7.13.2
 
